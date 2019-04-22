@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::API
   before_action :find_summon, only: [:show]
   def index
-    @summons = Summons.all
+    @summons = Summon.all
     render json: @summons
   end
 

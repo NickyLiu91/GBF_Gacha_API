@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+summon1 = Summon.create(summontype: "Character", weapon: "Kilij", character: "Barawa", rarity: "R")
+summon2 = Summon.create(summontype: "Character", weapon: "Derringer", character: "Juri", rarity: "SR")
+summon3 = Summon.create(summontype: "Character", weapon: "Eden", character: "Lucio", rarity: "SSR")
