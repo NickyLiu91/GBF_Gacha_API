@@ -131,7 +131,7 @@ Summon.create(summontype: "Character", weapon: "White Sword", character: "Bridge
 Summon.create(summontype: "Character", weapon: "Tattoo Fist", character: "Randall", rarity: "R")
 Summon.create(summontype: "Character", weapon: "Silver Pole", character: "Joel", rarity: "R")
 Summon.create(summontype: "Character", weapon: "Snowman Rod", character: "Suframare", rarity: "R")
-Summon.create(summontype: "Character", weapon: "Student Notenbook", character: "Alistair", rarity: "R")
+Summon.create(summontype: "Character", weapon: "Student Notebook", character: "Alistair", rarity: "R")
 Summon.create(summontype: "Character", weapon: "Night Horn", character: "Deliford", rarity: "R")
 Summon.create(summontype: "Character", weapon: "Shrimp Lure", character: "Yodarha", rarity: "R")
 Summon.create(summontype: "Character", weapon: "Self Defender", character: "Richard", rarity: "R")
