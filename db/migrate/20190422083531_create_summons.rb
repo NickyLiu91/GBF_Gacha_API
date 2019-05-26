@@ -6,6 +6,8 @@ class CreateSummons < ActiveRecord::Migration[5.2]
       t.string :character
       t.string :weapon
       t.string :summon
+      t.string :event
+      t.string :icon
 
       t.timestamps
     end

@@ -18,6 +18,8 @@ ActiveRecord::Schema.define(version: 2019_04_22_083531) do
     t.string "character"
     t.string "weapon"
     t.string "summon"
+    t.string "event"
+    t.string "icon"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
