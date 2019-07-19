@@ -245,7 +245,7 @@ Summon.create(summontype: "Character", weapon: "Turpin Spear", event: "None", ch
 Summon.create(summontype: "Character", weapon: "Turpin Spear", event: "None", character: "Morrigna", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Kilij", event: "None", character: "Juri", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Unsigned Blade", event: "None", character: "Mirin", rarity: "SR")
-Summon.create(summontype: "Character", weapon: "Zanbatto", event: "None", character: "Sevilbarra", rarity: "SR")
+Summon.create(summontype: "Character", weapon: "Zanbato", event: "None", character: "Sevilbarra", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Festive Frying Pan", event: "Holiday", character: "Yaia (Holiday)", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Tilvung", event: "None", character: "Helnar", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "White Flag", event: "None", character: "Mimlemel and Stumpeye", rarity: "SR")
