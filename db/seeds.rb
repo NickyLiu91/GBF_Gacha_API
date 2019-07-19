@@ -406,7 +406,7 @@ Summon.create(summontype: "Character", weapon: "Fusetto", event: "None", charact
 Summon.create(summontype: "Character", weapon: "Sword Breaker", event: "None", character: "None", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Trident", event: "None", character: "None", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Partisan", event: "None", character: "None", rarity: "SR")
-Summon.create(summontype: "Character", weapon: "Dragonflair Cutter", event: "None", character: "None", rarity: "SR")
+Summon.create(summontype: "Character", weapon: "Dragonfliar Cutter", event: "None", character: "None", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Shura Vhara", event: "None", character: "None", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Vajranda", event: "None", character: "None", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Bullova", event: "None", character: "None", rarity: "SR")
