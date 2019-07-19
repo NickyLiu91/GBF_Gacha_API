@@ -24,7 +24,7 @@ Summon.create(summontype: "Character", weapon: "Feendrache Pennant", event: "Non
 Summon.create(summontype: "Character", weapon: "Illusion Scepter", event: "None", character: "Magisa", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Roseate Aetherial Bow", event: "None", character: "Metera", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Antwerp", event: "Summer", character: "Percival (Summer)", rarity: "SSR")
-Summon.create(summontype: "Character", weapon: "Two by Four", event: "None", character: "Tsubasa", rarity: "SSR")
+Summon.create(summontype: "Character", weapon: "Two-by-Four", event: "None", character: "Tsubasa", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Thunder Dirk Jove", event: "None", character: "Agielba", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Magma Gauntlet", event: "None", character: "Aliza", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Benedia", event: "Grand", character: "Rackam (Grand)", rarity: "SSR")
