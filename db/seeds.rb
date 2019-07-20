@@ -255,7 +255,7 @@ Summon.create(summontype: "Character", weapon: "Sutera's Bow", event: "None", ch
 Summon.create(summontype: "Character", weapon: "Summer Souteyrand", event: "Summer", character: "Yuisis (Summer)", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Balisarde", event: "None", character: "Arthur and Mordred", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Seaside Memory", event: "Summer", character: "Chloe (Summer)", rarity: "SR")
-Summon.create(summontype: "Character", weapon: "Sahdow Scepter", event: "None", character: "Goblin Mage", rarity: "SR")
+Summon.create(summontype: "Character", weapon: "Shadow Scepter", event: "None", character: "Goblin Mage", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Merciless Chastening", event: "None", character: "Hazen (SR)", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Silver Fan", event: "None", character: "Karteira (SR)", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Stravaria", event: "None", character: "Keehar", rarity: "SR")
