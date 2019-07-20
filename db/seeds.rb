@@ -594,7 +594,7 @@ Summon.create(summontype: "Character", weapon: "Rose Queen", event: "None", char
 Summon.create(summontype: "Character", weapon: "Setekh", event: "None", character: "None", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Siren", event: "None", character: "None", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Zephyrus", event: "None", character: "None", rarity: "SSR")
-Summon.create(summontype: "Character", weapon: "Andramalech", event: "None", character: "None", rarity: "SSR")
+Summon.create(summontype: "Character", weapon: "Adramalech", event: "None", character: "None", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Aphrodite", event: "None", character: "None", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Apollo", event: "None", character: "None", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Grand Order", event: "None", character: "None", rarity: "SSR")
