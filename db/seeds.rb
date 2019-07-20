@@ -284,7 +284,7 @@ Summon.create(summontype: "Character", weapon: "Pinkie Needle", event: "Holiday"
 Summon.create(summontype: "Character", weapon: "Conifer", event: "Summer", character: "Naoise (Summer)", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Railgun", event: "None", character: "Robomi", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Hrotti", event: "None", character: "Sereul", rarity: "SSR")
-Summon.create(summontype: "Character", weapon: "Certificus", event: "Grand", character: "Vira (Grand)", rarity: "SSR")
+Summon.create(summontype: "Character", weapon: "Certificus", event: "Flash", character: "Vira (Grand)", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Dragon Slayer", event: "None", character: "Amira", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Gothic Cutlery", event: "None", character: "Dorothy and Claudia", rarity: "SSR")
 Summon.create(summontype: "Character", weapon: "Ethereal Lasher", event: "None", character: "Ferry (SSR)", rarity: "SSR")
