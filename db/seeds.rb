@@ -37,7 +37,6 @@ Summon.create(summontype: "Character", weapon: "Luin", event: "None", character:
 Summon.create(summontype: "Character", weapon: "Delta Apex", event: "Halloween", character: "Beatrix (Halloween)", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Nature's Mystery", event: "None", character: "Dante (SR)", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Glass Bow", event: "None", character: "Sutera (Fire)", rarity: "SR")
-Summon.create(summontype: "Character", weapon: "Akhu", event: "None", character: "Abby", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Kaiser Knuckles", event: "None", character: "Alec", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Ember Blade", event: "None", character: "Carren", rarity: "SR")
 Summon.create(summontype: "Character", weapon: "Dolphin", event: "None", character: "Cucouroux", rarity: "SR")
